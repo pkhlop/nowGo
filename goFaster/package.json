@@ -1,0 +1,14 @@
+{
+"name": "application-name",
+"version": "0.0.1",
+"private": true,
+"dependencies": {
+"ejs": "0.8.5",
+"express": "~3.2.6",
+"jade": "~0.31.2"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/stacksBundles/nowGo.git"
+}
+}
